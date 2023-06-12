@@ -7,8 +7,7 @@ int main()
     stack<int>s;
     // push operation 
    cout<<"element inserted";
-     s.push(2);
-     
+    s.push(2);
     s.push(3);
     // pop operation
     s.pop();
