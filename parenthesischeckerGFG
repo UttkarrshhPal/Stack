@@ -20,7 +20,7 @@ class Solution
                 temp.pop();
             }
             else{
-                temp.push(x[i]);
+                temp.push(x[i]);  // jab tk closing bracket nhi tab tak push
             }
             
         }
